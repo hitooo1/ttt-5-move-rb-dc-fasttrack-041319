@@ -8,12 +8,8 @@ end
 
 def input_to_index(input)
   input.to_i
-  
-end
+  end
 
-
-
-
-def move()
-  
+def move(input)
+  input_to_index - 1
 end
